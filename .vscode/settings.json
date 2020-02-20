@@ -1,5 +1,5 @@
 {
-    "window.zoomLevel": 1.0,
-    "editor.fontSize": 15,
+    "window.zoomLevel": 0.7,
+    "editor.fontSize": 10,
     "workbench.colorTheme":"Default Dark+"
 }
